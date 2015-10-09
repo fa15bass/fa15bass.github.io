@@ -1,5 +1,13 @@
 body{
-	background-image: url("background.jpg");
+	background-image: url("backgrounda.jpg");
+	
+	background-attachment: fixed;
+	background-size: cover;
+	color: limegreen;
+	font-family: monospace;
+}
+.homepage{
+	background-image: url("backgroundb.jpg");
 	
 	background-attachment: fixed;
 	background-size: cover;
