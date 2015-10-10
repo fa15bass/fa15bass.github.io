@@ -14,6 +14,7 @@ body{
 	color: limegreen;
 	font-family: monospace;
 }
+
 div#infobox{
 	padding: 5px;
 	background-color: white;
@@ -71,9 +72,13 @@ div{
 	border-radius: 10px;
 	width: 50%;
 	color: black;
+	opacity: 0.75;
 
 }
 
+.space{
+	line-height: 20px;
+}
 .column1{
 	opacity: 0.75;
 	width: 15%;
@@ -116,7 +121,7 @@ textarea{
 	text-align: left;
 }
 label{
-	width: 150px;
+	width: 30%;
 	display: inline-block;
 	text-align: right;
 }
