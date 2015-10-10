@@ -14,6 +14,16 @@ body{
 	color: limegreen;
 	font-family: monospace;
 }
+div#infobox{
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	width: 20%;
+	color: black;
+	margin-top: 10%;
+	text-align: center;
+	border: solid 1px black;
+}
 h1{
 	text-align: center;
 	background-color: black;
@@ -24,13 +34,13 @@ h2{
 	background-color: black;
 	color: limegreen;
 }
-.black{
-	color: black;
+.white{
+	color: white;
 }
 h3{
 	margin: 25px;
 	background-size: 5px 10px;
-	color: white;
+	color: black;
 }
 a.home{
 	border:0;
@@ -53,6 +63,8 @@ a{
 	font-family: monospace;
 	
 }
+
+
 div{
 	padding: 5px;
 	background-color: white;
@@ -60,6 +72,35 @@ div{
 	width: 50%;
 	color: black;
 
+}
+
+.column1{
+	opacity: 0.75;
+	width: 13%;
+}
+.column2{
+margin-left: 175px;
+margin-top: -695px;
+opacity: 0.75;
+width: 13%;
+}
+.column3{
+margin-left: 350px;
+margin-top: -695px;
+width: 13%;
+opacity: 0.75;
+}
+.column4{
+margin-left: 525px;
+margin-top: -695px;
+width: 15%;
+opacity: 0.75;
+}
+.column5{
+	margin-left: 725px;
+	margin-top: -695px;
+	width: 14%;
+	opacity: 0.75;
 }
 textarea{
 	margin-left: 50px;
@@ -104,3 +145,4 @@ button{
 	font-weight: bold;
 	font-size: 15px;
 }
+
