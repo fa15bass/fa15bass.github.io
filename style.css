@@ -76,30 +76,30 @@ div{
 
 .column1{
 	opacity: 0.75;
-	width: 13%;
+	width: 15%;
 }
 .column2{
-margin-left: 175px;
+margin-left: 190px;
 margin-top: -695px;
 opacity: 0.75;
-width: 13%;
+width: 15%;
 }
 .column3{
-margin-left: 350px;
+margin-left: 380px;
 margin-top: -695px;
-width: 13%;
+width: 15%;
 opacity: 0.75;
 }
 .column4{
-margin-left: 525px;
+margin-left: 570px;
 margin-top: -695px;
 width: 15%;
 opacity: 0.75;
 }
 .column5{
-	margin-left: 725px;
+	margin-left: 760px;
 	margin-top: -695px;
-	width: 14%;
+	width: 16%;
 	opacity: 0.75;
 }
 textarea{
